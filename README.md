@@ -11,8 +11,7 @@
   - [License](#license)
   
  # Installation
-  Click the green "code", and click the ssh link, go into terminal and clone into local machine. 
-
+  Click the green "code", and click the ssh link, go into terminal and clone into local machine.
  # Steps
 ### Step One
   Blank1
