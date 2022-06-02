@@ -1,30 +1,40 @@
-# E-Commerce (Backend)
+README Repo Template
+
+# TITLE
+
 # Description
-  Blank blank black
-  
+-  an backend e-commerce app
+
+# Heroku
+  coming soon
 # Table of Contents
-  
+  - [Heroku](#heroku)
   - [installation](#installation)
-  - [Steps](#steps)
+  - [Technology](#technology)
   - [Usage](#usage)
   - [Credits](#credits)
   - [License](#license)
+  - [Author](#author)
+  - [Video](#Video)
+  - [Images](#images)
   
- # Installation
+# Installation
   Click the green "code", and click the ssh link, go into terminal and clone into local machine.
- # Steps
 ### Step One
-  Blank1
+  run "npm i"
 ### Step Two
-   Blank2
+   run "mysql -u [YOUR USERNAME] -p", enter "SOURCE db/schema.sql" and use "USE ecommerce_db;"
 ### Step Three
-   Blank3
+   run "npm run seed" and "nodemon", voila!
+   
 
 # Technology 
-	- Javascript
+	- JavaScript
 	- Node.js
 	- Express.js
 	- SQL
+    - POSTMAN
+
 # Usage
   Install and use at leisure
 
@@ -32,17 +42,13 @@
  N/A 
 
 # License
- ![MIT](https://img.shields.io/static/v1?label=License&message=MIT&color=success)
- For more info: https://choosealicense.com/licenses/mit/
+ 
+# Author
+- Email: lemmy125@gmail.com
+- LinkedIn: www.linkedin.com/in/cruiz328
+- GitHub: github.com/cruiz328
 
-# GitHub Username
- cruiz328 
+## Video:
 
-## Email:
-
-lemmy125@gmail.com
-
-## Video Link:
-
-## Images
+## Images:
 
