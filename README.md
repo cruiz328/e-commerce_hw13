@@ -49,6 +49,6 @@ README Repo Template
 - GitHub: github.com/cruiz328
 
 ## Video:
-
+https://www.youtube.com/watch?v=ZZimI2du-V0
 ## Images:
 
